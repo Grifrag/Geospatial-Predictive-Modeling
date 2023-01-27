@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<route>
+    <waypoint id="32" name="Skotemedgrunnen">
+      <position lat="58.79531973" lon="5.39650212" />
+      <leg legInfo="" />
+    </waypoint>
+    <waypoint id="2" name="Feistein pilotboarding" radius="1.00">
+      <position lat="58.85414892" lon="5.51532601" />
+      <leg portsideXTD="0.10" legInfo="" />
+    </waypoint>
+    <waypoint id="3" name="Midtfjaera" radius="1.00">
+      <position lat="58.92870516" lon="5.54696341" />
+      <leg portsideXTD="0.10" legInfo="" />
+    </waypoint>
+    <waypoint id="29" name="Vistnestangen" radius="1.00">
+      <position lat="58.97875881" lon="5.55315073" />
+      <leg portsideXTD="0.10" legInfo="" />
+    </waypoint>
+    <waypoint id="4" name="Boeskjenane" radius="1.00">
+      <position lat="59.01206425" lon="5.53961858" />
+      <leg portsideXTD="0.10" legInfo="" />
+    </waypoint>
+    <waypoint id="24" name="Bragen" radius="1.00">
+      <position lat="59.03717101" lon="5.54017967" />
+      <leg portsideXTD="0.10" legInfo="" />
+    </waypoint>
+    <waypoint id="22" name="Bragen" radius="1.00">
+      <position lat="59.06251236" lon="5.57026848" />
+      <leg portsideXTD="0.10" legInfo="" />
+    </waypoint>
+    <waypoint id="30" name="Mekjarvik" radius="1.00">
+      <position lat="59.02928999" lon="5.62065085" />
+      <leg portsideXTD="0.10" legInfo="" />
+    </waypoint>
+    <waypoint id="31" name="Dusaviga" radius="1.00">
+      <position lat="59.00260332" lon="5.68410413" />
+      <leg portsideXTD="0.10" legInfo="" />
+    </waypoint>
+    <waypoint id="33" name="" radius="1.00">
+      <position lat="58.98616667" lon="5.7116" />
+      <leg starboardXTD="0.02" portsideXTD="0.02" safetyContour="20.00" safetyDepth="20.00" legInfo="" />
+    </waypoint>
+    <waypoint id="7" name="StavangerWest" radius="1.00">
+      <position lat="58.97757596" lon="5.72596554" />
+      <leg starboardXTD="0.02" portsideXTD="0.02" legInfo="" />
+    </waypoint>
+
+  <schedules>
+    <schedule id="0" name="Base Calculation" />
+  </schedules>
+  <extensions>
+    <extension manufacturer="Norwegian Coastal Administration" fullName="Cruise Stavanger - Feistein Inbound" productinfo="See information on www.routeinfo.no before use of this Reference Route for Navigation. The Reference Routes from NCA can be used as base in route planning. For routes with no comments on vessel size, 150 meter length and 9 meter draught has been used to quality assure the routes. Limitations in size of vessel may vary along the route caused by regulation or depths." routeNumber="NO-380003" StmDirection="NO DIRECTION" StmRelativeToShortestDistance="0" StmPointDistanceLimitPilotRoute="0" StmPointDistanceRtz="0" StmMaxBearingDistance="0" xmlns="" />
+  </extensions>
+</route>

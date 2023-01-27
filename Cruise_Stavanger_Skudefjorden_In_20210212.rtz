@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<route>
+    <waypoint id="1" name="Skudefjorden">
+      <position lat="59.07455409" lon="5.34576314" />
+      <leg legInfo="" />
+    </waypoint>
+    <waypoint id="2" name="Sveinane" radius="1.50">
+      <position lat="59.10743148" lon="5.46457765" />
+      <leg legInfo="" />
+    </waypoint>
+    <waypoint id="3" name="Fjoloy light" radius="1.50">
+      <position lat="59.10442634" lon="5.50323349" />
+      <leg legInfo="" />
+    </waypoint>
+    <waypoint id="4" name="Bragen" radius="1.50">
+      <position lat="59.04567584" lon="5.58379716" />
+      <leg legInfo="" />
+    </waypoint>
+    <waypoint id="5" name="Mekjarvik" radius="1.50">
+      <position lat="59.02928999" lon="5.62065085" />
+      <leg legInfo="" />
+    </waypoint>
+    <waypoint id="6" name="Dusaviga" radius="1.50">
+      <position lat="59.00260332" lon="5.68410413" />
+      <leg legInfo="" />
+    </waypoint>
+    <waypoint id="7" name="" radius="1.50">
+      <position lat="58.98633333" lon="5.71132956" />
+      <leg starboardXTD="0.02" portsideXTD="0.02" safetyContour="20.00" safetyDepth="20.00" legInfo="" />
+    </waypoint>
+    <waypoint id="8" name="Stavanger" radius="1.50">
+      <position lat="58.97757596" lon="5.72596554" />
+      <leg starboardXTD="0.02" portsideXTD="0.02" legInfo="" />
+    </waypoint>
+
+  <schedules>
+    <schedule id="0" name="Base Calculation" />
+  </schedules>
+  <extensions>
+    <extension manufacturer="Norwegian Coastal Administration" fullName="Cruise Stavanger Skudefjorden Inbound" productinfo="See information on www.routeinfo.no before use of this Reference Route for Navigation. The Reference Routes from NCA can be used as base in route planning. For routes with no comments on vessel size, 150 meter length and 9 meter draught has been used to quality assure the routes. Limitations in size of vessel may vary along the route caused by regulation or depths." routeNumber="NO-380005" StmDirection="NO DIRECTION" StmRelativeToShortestDistance="0" StmPointDistanceLimitPilotRoute="0" StmPointDistanceRtz="0" StmMaxBearingDistance="0" xmlns="" />
+  </extensions>
+</route>

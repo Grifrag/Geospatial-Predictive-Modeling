@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<route>
+    <waypoint id="1" name="StavangerWest">
+      <position lat="58.97756611" lon="5.72598921" />
+      <leg legInfo="" />
+    </waypoint>
+    <waypoint id="2" name="Ulsnesgrunnen" radius="2.00">
+      <position lat="58.98633212" lon="5.71134896" />
+      <leg starboardXTD="0.02" portsideXTD="0.02" legInfo="" />
+    </waypoint>
+    <waypoint id="3" name="Dusaviga" radius="2.00">
+      <position lat="59.0034202" lon="5.69128408" />
+      <leg starboardXTD="0.05" portsideXTD="0.05" legInfo="" />
+    </waypoint>
+    <waypoint id="4" name="Mekjarvik" radius="2.00">
+      <position lat="59.0315842" lon="5.62486781" />
+      <leg starboardXTD="0.10" portsideXTD="0.10" legInfo="" />
+    </waypoint>
+    <waypoint id="5" name="Gryda" radius="2.00">
+      <position lat="59.04514792" lon="5.59887" />
+      <leg starboardXTD="0.10" portsideXTD="0.10" legInfo="" />
+    </waypoint>
+    <waypoint id="6" name="Sveinane" radius="2.00">
+      <position lat="59.11010337" lon="5.51029227" />
+      <leg starboardXTD="0.10" portsideXTD="0.10" legInfo="" />
+    </waypoint>
+    <waypoint id="7" name="Arsgrunnen" radius="2.00">
+      <position lat="59.12124917" lon="5.43003904" />
+      <leg starboardXTD="0.10" portsideXTD="0.10" legInfo="" />
+    </waypoint>
+    <waypoint id="8" name="Skudefjorden" radius="2.00">
+      <position lat="59.09098201" lon="5.31941936" />
+      <leg starboardXTD="0.10" portsideXTD="0.10" legInfo="" />
+    </waypoint>
+  <schedules>
+    <schedule id="0" name="Base Calculation" />
+  </schedules>
+  <extensions>
+    <extension manufacturer="Norwegian Coastal Administration" fullName="Cruise Stavanger - Skudefjorden Outbound" productinfo="See information on www.routeinfo.no before use of this Reference Route for Navigation. The Reference Routes from NCA can be used as base in route planning. For routes with no comments on vessel size, 150 meter length and 9 meter draught has been used to quality assure the routes. Limitations in size of vessel may vary along the route caused by regulation or depths." routeNumber="NO-380006" StmDirection="NO DIRECTION" StmRelativeToShortestDistance="0" StmPointDistanceLimitPilotRoute="0" StmPointDistanceRtz="0" StmMaxBearingDistance="0" xmlns="" />
+  </extensions>
+</route>

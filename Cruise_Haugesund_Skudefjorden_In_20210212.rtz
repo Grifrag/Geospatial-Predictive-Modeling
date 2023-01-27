@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<route>
+    <waypoint id="1" name="Arsgrunnen">
+      <position lat="59.12124924" lon="5.4300385" />
+      <leg legInfo="" />
+    </waypoint>
+    <waypoint id="2" name="Geitungen" radius="0.80">
+      <position lat="59.11304175" lon="5.24570539" />
+      <leg legInfo="" />
+    </waypoint>
+    <waypoint id="3" name="Skallane" radius="0.80">
+      <position lat="59.126527" lon="5.15200109" />
+      <leg legInfo="" />
+    </waypoint>
+    <waypoint id="4" name="Svortingen" radius="0.80">
+      <position lat="59.2542259" lon="5.10146542" />
+      <leg legInfo="" />
+    </waypoint>
+    <waypoint id="5" name="Middagsnes" radius="0.80">
+      <position lat="59.37830921" lon="5.11160959" />
+      <leg legInfo="" />
+    </waypoint>
+    <waypoint id="6" name="Kvaloytai" radius="0.80">
+      <position lat="59.4158799" lon="5.15745745" />
+      <leg legInfo="" />
+    </waypoint>
+    <waypoint id="7" name="Bramsflua" radius="0.70">
+      <position lat="59.46814521" lon="5.15631353" />
+      <leg legInfo="" />
+    </waypoint>
+    <waypoint id="8" name="" radius="0.80">
+      <position lat="59.42538805" lon="5.22663018" />
+      <leg legInfo="" />
+    </waypoint>
+    <waypoint id="9" name="" radius="0.80">
+      <position lat="59.41596493" lon="5.23630737" />
+      <leg legInfo="" />
+    </waypoint>
+    <waypoint id="10" name="" radius="0.80">
+      <position lat="59.41222713" lon="5.24206075" />
+      <leg legInfo="" />
+      
+    </waypoint>
+    <waypoint id="11" name="" radius="0.80">
+      <position lat="59.4095211" lon="5.24785873" />
+      <leg legInfo="" />
+    </waypoint>
+  <schedules>
+    <schedule id="0" name="Base Calculation" />
+  </schedules>
+  <extensions>
+    <extension manufacturer="Norwegian Coastal Administration" fullName="Cruise Haugesund - Skudefjorden Inbound" productinfo="See information on www.routeinfo.no before use of this Reference Route for Navigation. The Reference Routes from NCA can be used as base in route planning. For routes with no comments on vessel size, 150 meter length and 9 meter draught has been used to quality assure the routes. Limitations in size of vessel may vary along the route caused by regulation or depths." routeNumber="NO-380001" StmDirection="NO DIRECTION" StmRelativeToShortestDistance="0" StmPointDistanceLimitPilotRoute="0" StmPointDistanceRtz="0" StmMaxBearingDistance="0" xmlns="" />
+  </extensions>
+</route>

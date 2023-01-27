@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<route>
+  <waypoint id="1" name="">
+      <position lat="59.4095211" lon="5.24785873" />
+      <leg legInfo="" />
+    </waypoint>
+    <waypoint id="2" name="">
+      <position lat="59.41222713" lon="5.24206075" />
+      <leg legInfo="" />
+    </waypoint>
+    <waypoint id="3" name="">
+      <position lat="59.41596493" lon="5.23630737" />
+      <leg legInfo="" />
+    </waypoint>
+    <waypoint id="4" name="">
+      <position lat="59.42538805" lon="5.22663018" />
+      <leg legInfo="" />
+    </waypoint>
+    <waypoint id="5" name="Bramsflua" radius="0.70">
+      <position lat="59.46814508" lon="5.15631383" />
+      <leg legInfo="" />
+    </waypoint>
+    <waypoint id="6" name="Kvaloeytaai">
+      <position lat="59.41588239" lon="5.1574496" />
+      <leg legInfo="" />
+    </waypoint>
+    <waypoint id="7" name="Middagsnes">
+      <position lat="59.3726682" lon="5.10435445" />
+      <leg legInfo="" />
+    </waypoint>
+    <waypoint id="8" name="Svortingen">
+      <position lat="59.25442045" lon="5.09480562" />
+      <leg legInfo="" />
+    </waypoint>
+    <waypoint id="9" name="Skallane">
+      <position lat="59.12389938" lon="5.14593241" />
+      <leg legInfo="" />
+    </waypoint>
+    <waypoint id="10" name="Geitungen">
+      <position lat="59.10633076" lon="5.24267426" />
+      <leg legInfo="" />
+    </waypoint>
+    <waypoint id="11" name="Sveinane" radius="0.10">
+      <position lat="59.10741116" lon="5.46458765" />
+      <leg legInfo="" />
+    </waypoint>
+  <schedules>
+    <schedule id="0" name="Base Calculation" />
+  </schedules>
+  <extensions>
+    <extension manufacturer="Norwegian Coastal Administration" fullName="Cruise Haugesund - Skudefjorden Outbound" productinfo="See information on www.routeinfo.no before use of this Reference Route for Navigation. The Reference Routes from NCA can be used as base in route planning. For routes with no comments on vessel size, 150 meter length and 9 meter draught has been used to quality assure the routes. Limitations in size of vessel may vary along the route caused by regulation or depths." routeNumber="NO-380002" StmDirection="NO DIRECTION" StmRelativeToShortestDistance="0" StmPointDistanceLimitPilotRoute="0" StmPointDistanceRtz="0" StmMaxBearingDistance="0" xmlns="" />
+  </extensions>
+</route>
